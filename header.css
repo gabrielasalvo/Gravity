@@ -6,17 +6,25 @@ header{
     margin-left: auto;
     margin-right: auto;
     padding-top: 4vh;
-    text-align: center;
+    text-align: justify;
     
 }
 
-.logo{
-    float: left;
+.logo, .icon, .menu{
+    display: inline-block;
+  /*float: left;*/
 }
 
-.icon{
+
+
+header::after{
+    content: " ";
+    display: inline-block;
+    width: 100%;
+}
+/*.icon{
     display: inline-block;
 }
 .menu{
     float: right
-}
+}*/
