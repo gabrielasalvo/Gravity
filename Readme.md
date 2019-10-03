@@ -8,8 +8,8 @@ Desenvolvimento de réplica do site da Nike: Gravity.
 Projeto em conjunto com o CollabCode com o professor Marco Bruno
 
 --- 
-  # # Figma do Projeto
-  *[Figma-Gravity](https://www.figma.com/file/PChttEmP7lfCxep9yupXeK/Gravity?node-id=0%3A240)
+## Figma do Projeto
+* [Figma-Gravity](https://www.figma.com/file/PChttEmP7lfCxep9yupXeK/Gravity?node-id=0%3A240)
 
 ---
 
