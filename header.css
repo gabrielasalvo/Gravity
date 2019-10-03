@@ -2,7 +2,8 @@
     display: flex;
     justify-content: space-between;
     padding-top: 4vh;
-    margin-bottom: 126px;
+    
+   
   }
   
   .menu {
@@ -78,8 +79,6 @@
       margin-bottom: 80px;
     }
   }
-  .social{
-      display: inline-block;
-      list-style: none;
-      width: 32px
-  }
+  
+  
+  

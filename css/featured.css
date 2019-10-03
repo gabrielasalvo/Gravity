@@ -1,6 +1,9 @@
-.featured .item{
+.featured .social{
     display: flex;
-    text-align: justify;
+}
+
+.featured .item{
+    display:inline-block;
 }
 
 .featured .icon {
