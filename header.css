@@ -78,4 +78,8 @@
       margin-bottom: 80px;
     }
   }
-  
+  .social{
+      display: inline-block;
+      list-style: none;
+      width: 32px
+  }
