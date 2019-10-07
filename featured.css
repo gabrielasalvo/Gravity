@@ -1,0 +1,42 @@
+.featured .social{
+    display: flex;
+    width: 120px;
+    justify-content: space-between;
+    float: right;
+
+}
+.featured .title {
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 1,666em;
+    letter-spacing: -1px;
+    width: 540px;
+   
+}
+
+
+.featured .item{
+    display:inline-block;
+}
+
+.featured .icon {
+    width: 16px;
+}
+
+.featured .wrapper-photo {
+    margin-top: 90px;
+
+}
+
+.featured .photo {
+  width: 100%;
+  margin-bottom: 42px;
+}
+
+
+.featured .caption {
+    color:rgba(34,34,34, 0.7);
+    line-height: 1.555em;
+}
+
+
